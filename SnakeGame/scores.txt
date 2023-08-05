@@ -1,0 +1,134 @@
+Dereck,80
+,10
+,130
+null,10
+Profe ,0
+profe segunda oportunidad,10
+Valentina_N,70
+edgar_n,20
+Adriana_N,10
+Mateo.C_N,20
+katty_N,20
+Nicolás}_N,50
+Diana,140
+josue,30
+null,0
+    ,0
+,40
+,0
+paulina_N,20
+dica,330
+,0
+,10
+natalia_N,30
+daniel_N,20
+natalia,20
+natalia,40
+daniel,80
+natalia,50
+null,0
+Emily Loor_N,30
+Josue,310
+,30
+Josue Páez ,350
+Jilmar,30
+,0
+null,0
+Erick,30
+,30
+,0
+,20
+,80
+,10
+,60
+,50
+Dayanara Bautista_N,20
+Patricia_N,20
+,0
+sofia,30
+inara,120
+Daniel Escobar,40
+jahirMijas,20
+camili,80
+camili,0
+camili,130
+Dayanara Bautista,100
+Dayanara Bautista,0
+Dayanara Bautista,110
+Palama_N,50
+},80
+,0
+Luis Vasquez,20
+yare,100
+,70
+,100
+yaretzy,290
+,250
+,340
+,0
+leonel,10
+ronaldo,140
+Miguis,140
+julio,60
+Tabys,10
+,0
+,0
+,0
+,10
+,0
+,0
+,60
+Cristian,240
+,110
+dianita,420
+sebas,10
+sebastian ,20
+Mireya,80
+julio,80
+Favio Valverde,10
+odalys,130
+jose luis ,10
+ariel,0
+christopher,20
+Igna,20
+,210
+,10
+null,70
+jefferson villagomez,50
+jostin torres,110
+x,0
+jefferson villagomez,160
+,140
+,20
+Cristian,200
+,0
+,210
+Yulexi ,30
+Yulexi,20
+,340
+,350
+,330
+,70
+,0
+anikson,30
+,10
+,10
+El Taison,60
+,140
+,80
+,180
+jhon Guaman,890
+gregory,30
+jj,0
+ingeniera,20
+,90
+isai,200
+,170
+derek,30
+jj,120
+xca,40
+ñ,10
+null,60
+,230
+valente,0
+kevin _N,140
